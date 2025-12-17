@@ -17,3 +17,5 @@
 ## [Subset](https://leetcode.com/problems/subsets/description/)
 
 ## [Subset_2](https://leetcode.com/problems/subsets-ii/)
+
+## [Word_Search](https://leetcode.com/problems/word-search/)

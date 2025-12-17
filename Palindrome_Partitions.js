@@ -30,7 +30,7 @@ let isPalindrome =(s)=>
     let backtrack =(path, remainingString)=>
     {
 
-
+console.log(path);
 if(!remainingString.length)
 {
     result.push([...path]);
@@ -54,3 +54,11 @@ if(!remainingString.length)
 
 
 
+
+
+// []
+// [ 'a' ]
+// [ 'a', 'a' ]
+// [ 'a', 'a', 'b' ]
+// [ 'aa' ]
+// [ 'aa', 'b' ]
