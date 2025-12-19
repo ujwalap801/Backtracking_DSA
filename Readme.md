@@ -6,6 +6,8 @@
 
 ## [CombinationSum_3](https://leetcode.com/problems/combination-sum-iii/description/)
 
+## [N_Queen](https://leetcode.com/problems/n-queens/)
+
 ## [Palindrome_Partitions](https://leetcode.com/problems/palindrome-partitioning/)
 
 ## [Permutations](https://leetcode.com/problems/permutations/)
